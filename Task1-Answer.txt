@@ -1,0 +1,1 @@
+Task 1: Reviewed profile files and set MY_CUSTOM_VARIABLE in ~/.profile
