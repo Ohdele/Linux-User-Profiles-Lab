@@ -1,0 +1,1 @@
+Task 2: Added a custom welcome message to ~/.bashrc and verified that it runs on a new interactive shell session.
